@@ -8,7 +8,6 @@ Currently focused on **AI agent infrastructure** — runtime security, multi-age
 
 - **[Engram](https://github.com/damienaubry/engram)** — Runtime security for AI agents. Three specialized agents coordinate through shared persistent memory to detect behavioral anomalies that stateless monitoring misses. Built at the Agent Native Company Hackathon (Beta × Nebius).
 - **[Displex](https://displex.app)** — Digital signage SaaS for restaurants and multi-location businesses. In production with active clients. Full stack: React dashboard, Raspberry Pi players, AWS IoT, Stripe billing.
-- **Convoy** — Open-source multi-agent orchestration framework. Lightweight, TypeScript, battle-tested patterns from a production system running 33+ agents.
 
 ### Stack
 
