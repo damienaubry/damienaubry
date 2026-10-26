@@ -2,9 +2,7 @@
 
 # Damien Aubry
 
-**Technical founder · Self-taught · Product builder**
-
-I build software, put it in customers’ hands, and learn from what happens next.
+**Technical founder. I build products and understand the business behind them.**
 
 [LinkedIn](https://www.linkedin.com/in/damien-abr/) · [X](https://x.com/damien_abr) · [AubryMedia](https://aubrymedia.com)
 
@@ -12,33 +10,22 @@ I build software, put it in customers’ hands, and learn from what happens next
 
 <br>
 
-## About
+I’m a self-taught developer and entrepreneur. I’ve run an e-commerce business, co-founded a delivery marketplace, and built software used by restaurants.
 
-I’m a self-taught technical founder with experience building software and operating businesses.
+In San Francisco, I took part in hackathons exploring AI agents, security, and space technology. I built prototypes under tight deadlines and pitched them to new audiences.
 
-I turn practical problems into working products, from web applications and AI agents to hardware integrations. I care about what happens after the first version: real usage, customer feedback, and the work of keeping a product running.
+With Displex, I worked across the full product: web software, Raspberry Pi players, and remote device management.
+
+I’m looking to meet ambitious people, find a strong cofounder, and explore problems worth building a company around.
 
 ## Selected work
 
 | Project | What I built |
 | :--- | :--- |
-| **[Displex](https://displex.app)** | Digital signage software, from the web dashboard to Raspberry Pi players and remote device management. |
-| **[tack-guard](https://github.com/tacksec/tack-guard)** | Runtime risk scoring for AI agent tool calls, designed to check actions before execution. |
+| **[Displex](https://displex.app)** | Digital signage software connecting a web dashboard, Raspberry Pi players, and remote device management. |
+| **[tack-guard](https://github.com/tacksec/tack-guard)** | Runtime risk scoring for AI agent tool calls, designed to check actions before execution. Developed from my hackathon work in San Francisco. |
 | **[convoy-ai](https://github.com/damienaubry/convoy-ai)** | Tools for running AI agents, including model routing, memory, streaming, and cost tracking. |
-| **[groundwork](https://github.com/damienaubry/groundwork)** | Documentation and working practices that help coding agents build with consistent context. |
 
-## Background
+## Built with
 
-I’ve built and operated businesses in e-commerce, delivery, and hospitality. That experience shapes how I approach software: understand the problem, build something useful, and stay close to the people using it.
-
-My work spans web applications, AI agents, and hardware integrations. I enjoy the point where software meets the real world, with all its constraints.
-
-## Toolkit
-
-**TypeScript · React · Next.js · Node.js**
-
-Supabase · MongoDB · Redis · AWS IoT · Raspberry Pi · Vercel
-
-<br>
-
-**Let’s connect.** I’m interested in meeting ambitious founders and potential cofounders who like building, testing ideas, and solving practical problems.
+TypeScript · React · Next.js · Node.js · Supabase · AWS IoT · Raspberry Pi
